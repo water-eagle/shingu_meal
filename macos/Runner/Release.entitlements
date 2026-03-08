@@ -4,5 +4,8 @@
 <dict>
 	<key>com.apple.security.app-sandbox</key>
 	<true/>
+	<!-- 아웃바운드 네트워크 허용 -->
+	<key>com.apple.security.network.client</key>
+	<true/>
 </dict>
 </plist>

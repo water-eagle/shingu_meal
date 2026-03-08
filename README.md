@@ -29,8 +29,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 수정해야 할 목록
 
-- [ ] iOS에서 이모지가 네모 물음표 표시로 깨짐
-- [ ] macOS에서 `SocketException: Connection failed (OS Error: Operation not permitted, errno = 1), address = www.shingu.ac.kr, port = 443터넷` 오류 발생
+- [x] iOS 에뮬레이터 상에서 이모지 깨짐 ~~iOS에서 이모지가 네모 물음표 표시로 깨짐~~
+- [x] macOS에서 `SocketException: Connection failed (OS Error: Operation not permitted, errno = 1), address = www.shingu.ac.kr, port = 443터넷` 오류 발생
 
 ## 구현해야 할 목록
 
